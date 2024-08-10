@@ -1,0 +1,5 @@
+D:\hamza tyit 18028\gui\vowels1dc\WebApplication2\bin\WebApplication2.dll
+D:\hamza tyit 18028\gui\vowels1dc\WebApplication2\bin\WebApplication2.pdb
+D:\hamza tyit 18028\gui\vowels1dc\WebApplication2\obj\Debug\WebApplication2.dll
+D:\hamza tyit 18028\gui\vowels1dc\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\hamza tyit 18028\gui\vowels1dc\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache

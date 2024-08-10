@@ -1,0 +1,4 @@
+D:\hamza tyit 18028\gui\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\hamza tyit 18028\gui\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\hamza tyit 18028\gui\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\hamza tyit 18028\gui\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
